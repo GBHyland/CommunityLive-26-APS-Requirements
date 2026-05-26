@@ -105,10 +105,7 @@ Install with default settings.
 
 Install:
 
-* Extension Pack for Java
-* XML
-* REST Client
-* Docker
+* Remote-SSH
 
 ---
 
@@ -213,10 +210,7 @@ brew install --cask visual-studio-code
 
 Install:
 
-* Extension Pack for Java
-* XML
-* REST Client
-* Docker
+* Remote-SSH
 
 ---
 
